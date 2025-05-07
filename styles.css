@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+.movieCard{
+	width:200px;
+	height:300px;
+	position:absolute;
+	border-radius:20px;
+	background-color:lightblue;
+	padding:0px;
+}
+.moviePic{
+	width:200px;
+	height:200px;
+	opacity:0.8;
+	border-radius:20px 20px 0px 0px;
+}
+.movieDetail{
+	position:relative;
+	top:5;
+	width:200px;
+	text-align:center;
+	font-size:20px;
+}
